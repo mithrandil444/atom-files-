@@ -1,0 +1,9 @@
+{
+  "protocol": "sftp",
+  "host": "svendv",
+  "port": 22,
+  "user": "pi",
+  "pass": "",
+  "promptForPass": true,
+  "remote": "/var/www/html"
+}
